@@ -1,0 +1,2 @@
+# Pinned CLI agent integration for the baseline experiment.
+aider-chat==0.86.1

@@ -11,11 +11,17 @@ data/
 logs/
 *.gguf
 *.safetensors
+.python-version
+.venv/
+__pycache__/
+.tools/
 
 # Terraform state and local overrides
 *.tfstate
 *.tfstate.*
 .terraform/
+terraform/sandbox/.terraform-data/
+terraform/sandbox/*.tfplan
 crash.log
 override.tf
 override.tf.json
