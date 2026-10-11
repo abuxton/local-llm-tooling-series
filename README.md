@@ -5,9 +5,10 @@ Terraform and platform-engineering tasks. It accompanies the [research and
 design article](https://github.com/abuxton/abuxton.github.io/issues/69).
 
 The repository starts with the approved [research and design
-record](docs/research-design.md). The subsequent milestones add a
-version-pinned baseline environment, reusable task workflow, and a measured
-evaluation report.
+record](docs/research-design.md) and the
+[version-pinned baseline environment](docs/baseline-environment.md). The
+subsequent milestones add a reusable task workflow and a measured evaluation
+report.
 
 ## Safety boundary
 
